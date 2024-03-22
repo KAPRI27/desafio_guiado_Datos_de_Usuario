@@ -1,0 +1,21 @@
+Desafío Guiado - Datos de usuarios
+
+En este desafío validaremos nuestros conocimientos de Async/Await en JavaScript, Manejo de errores y Patrón de módulo.
+Para lograrlo, necesitarás apoyarte del archivo "Apoyo Desafío - Datos de usuarios".  
+Lee todo el documento antes de comenzar el desarrollo individual, para asegurarte de tener el máximo de puntaje y enfocar bien los esfuerzos.
+
+Descripción
+
+En desarrollo web es muy importante trabajar consumiendo datos desde diversas fuentes, entre ellas APIs, también podemos utilizar patrones para desarrollar, cómo el patrón de módulo.
+En este desafío utilizarás datos desde la siguiente URL, la cual nos devuelve un arreglo con usuarios de forma aleatoria, específicamente consumirás los datos desde la siguiente API, la cual nos devuelve 10 usuarios y aplicarás el patrón módulo como forma de trabajo.
+
+Al cargar nuestra página, debe realizar la petición y mostrar la información, como en la siguiente imagen de muestra.
+
+
+Requerimientos
+
+1. Programar una función IIFE para ser invocada al cargar nuestra página. (5 Puntos)
+2. Programar la petición a la API usando async - await y mostrar el resultado en html utilizando etiquetas del tipo párrafo una bajo la otra. (5 Puntos)
+
+
+¡Mucho éxito!
